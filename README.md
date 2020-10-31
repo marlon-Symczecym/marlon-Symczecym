@@ -9,7 +9,7 @@
 ```javascript
   async user.index({
    🐜 name: 'Marlon Symczecym',
-   ✔️ age: 266
+   ✔️ age: 26
    🌴 city: 'Rio Negrinho, SC',
    👩 stack: ['Javascript','Typescript','Html','CSS','ReactJs','(UI/UX)'],
    📷 hobby: 'tocar instrumentos','series'
