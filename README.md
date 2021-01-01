@@ -11,7 +11,7 @@
    🐜 name: 'Marlon Symczecym',
    ✔️ age: 26
    🌴 city: 'Rio Negrinho, SC',
-   👩 stack: ['Html 5','CSS 3','Javascript','Typescript','(UI/UX)'],
+   👩 stack: ['Html 5','CSS 3','Javascript','Typescript','(UI/UX)', 'Elixir'],
    📷 hobby: ['tocar instrumentos','series', 'fotografia']
   });
 
