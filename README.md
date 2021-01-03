@@ -5,7 +5,7 @@
 ```javascript
   async user.index({
     🐜 name: 'Marlon Symczecym',
-    ✔️ age: Date.now() - 24/10/1994
+    ✔️ age: Date.now() - '24/10/1994', 
     🌴 city: 'Rio Negrinho, SC',
     👩 stack: ['Html5','CSS3','Javascript','Typescript','(UI/UX)', 'Elixir'],
     📷 hobby: ['tocar instrumentos','series', 'fotografia']
