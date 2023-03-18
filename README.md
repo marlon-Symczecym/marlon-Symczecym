@@ -7,7 +7,7 @@
     🐜 name: 'Marlon Symczecym',
     ✔️ age: Date.now() - '24/10/1994', 
     🌴 city: 'Rio Negrinho, SC',
-    👩 stack: ['Html5','CSS3','Javascript','Typescript','(UI/UX)', 'Elixir'],
+    👩 stack: ['Kotlin','Java','Back-End Mobile','Front-End Mobile','(UI/UX)'],
     📷 hobby: ['tocar instrumentos','series', 'fotografia']
   });
 
