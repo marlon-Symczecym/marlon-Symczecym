@@ -1,18 +1,25 @@
 ### Hi there 👋, my name is **Marlon Symczecym**
 
-# **Back End Engineer**
+# **iOs Mobile Engineer**
 
-```javascript
-  async user.index({
-    🐜 name: 'Marlon Symczecym',
-    ✔️ age: Date.now() - '24/10/1994', 
-    🌴 city: 'Rio Negrinho, SC',
-    👩 stack: ['Kotlin','Java','Back-End Mobile','Front-End Mobile','(UI/UX)'],
-    📷 hobby: ['tocar instrumentos','series', 'fotografia']
-  });
+```swift
+  struct User {
+    🐜 let name: String
+    ✔️ let birthday: String
+    🌴 let city: String
+    👩 let stack: [String]
+    📷 let hobby: [String]
+  }
 
-  return response.status(201).send();
-```
+  class Life {
+    var user: User = User(
+                          name: "Marlon Symczecym",
+                          birthday: "24-10-1994",
+                          city: "Rio Negrinho - SC - Brasil",
+                          stack: ["Swift","Back-End Mobile", "Front-End Mobile", "(UI/UX)"],
+                          hobby: ["Tocar instrumentos musicais", "Ver Séries de Comédia", "Fotografia"]
+                        )             
+  }
 
 # 🔭 I’m currently working on this page.
 
