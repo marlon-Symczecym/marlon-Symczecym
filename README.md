@@ -20,7 +20,7 @@
                           hobby: ["Tocar instrumentos musicais", "Ver Séries de Comédia", "Fotografia"]
                         )             
   }
-
+```
 # 🔭 I’m currently working on this page.
 
 <p align="justify">
