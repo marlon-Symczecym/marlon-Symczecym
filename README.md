@@ -2,24 +2,13 @@
 
 # **iOs Mobile Engineer**
 
-```swift
-  struct User {
-    🐜 let name: String
-    ✔️ let birthday: String
-    🌴 let city: String
-    👩 let stack: [String]
-    📷 let hobby: [String]
-  }
-
-  class Life {
-    var user: User = User(
-                          name: "Marlon Symczecym",
-                          birthday: "24-10-1994",
-                          city: "Rio Negrinho - SC - Brasil",
-                          stack: ["Swift","Back-End Mobile", "Front-End Mobile", "(UI/UX)"],
-                          hobby: ["Tocar instrumentos musicais", "Ver Séries de Comédia", "Fotografia"]
-                        )             
-  }
+```javascript
+   async user.index({
+     🐜 name: 'Marlon Symczecym',
+     ✔️ age: Date.now() - 24/10/1994
+     🌴 city: 'Rio Negrinho, SC',
+     👩 stack: ['Html5','CSS3','Javascript','Typescript','(UI/UX)', 'PHP', 'Swift'],
+     📷 hobby: ['tocar instrumentos','series', 'fotografia']
 ```
 # 🔭 I’m currently working on this page.
 
