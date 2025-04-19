@@ -1,25 +1,36 @@
 ### Hi there 👋, my name is **Marlon Symczecym**
 
-# **iOS Engineer**
+# **Full Cycle Engineer**
 
-```swift
-   struct User {
-     🐜 let name: String
-     ✔️ let birthday: String
-     🌴 let city: String
-     👩 let stack: [String]
-     📷 let hobby: [String]
-   }
+```go
+package main
 
-   class Life {
-     var user: User = User(
-                           name: "Marlon Symczecym",
-                           birthday: "24-10-1994",
-                           city: "Rio Negrinho - SC - Brasil",
-                           stack: ["Swift","Back-End Mobile", "Front-End Mobile", "(UI/UX)"],
-                           hobby: ["Tocar instrumentos musicais", "Ver Séries de Comédia", "Fotografia"]
-                         )             
-   }
+import "fmt"
+
+type Developer struct {
+	🧑‍💻 Name      string
+	🎂 Birthday  string
+	🌍 City      string
+	💻 Stack     []string
+	📚 Learning  []string
+	🎯 Focus     string
+	🎸 Hobbies   []string
+}
+
+func main() {
+	me := Developer{
+		🧑‍💻 Name:     "Marlon Symczecym",
+		🎂 Birthday: "24-10-1994",
+		🌍 City:     "Rio Negrinho - SC - Brasil",
+		💻 Stack:    []string{"Go", "Back-End", "Microservices", "Containers", "CI/CD", "TDD"},
+		📚 Learning: []string{"Full Cycle", "Clean Architecture", "Sistemas Distribuídos"},
+		🎯 Focus:    "Back-End com Go, boas práticas de engenharia e arquitetura de software",
+		🎸 Hobbies:  []string{"Tocar instrumentos musicais", "Ver séries de comédia", "Fotografia"},
+	}
+
+	fmt.Printf("Desenvolvedor: %+v\n", me)
+}
+
 ```
 # 🔭 I’m currently working on this page.
 
